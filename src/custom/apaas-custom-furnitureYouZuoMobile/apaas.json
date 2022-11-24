@@ -1,0 +1,20 @@
+{
+  "entry": "index.js",
+  "copyAssets": ["public/custom/apaas-custom-furnitureYouZuoMobile"],
+  "router": {
+    "apaas-custom-furnitureYouZuoMobile": {
+      "name": "apaas-custom-furnitureYouZuoMobile",
+      "path": "apaas-custom-furnitureYouZuoMobile",
+      "meta": {
+        "title": "自开发FurnitureYouZuoMobile"
+      }
+    }
+  },
+  "customWidgetList": [
+    {
+      "code": "PROGRESS_APP",
+      "text": "订单进度移动端组件"
+    }
+  ],
+  "outputName": "apaas-custom-furnitureYouZuoMobile"
+}
