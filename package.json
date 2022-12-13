@@ -83,12 +83,6 @@
       "kebabCase": true
     }
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged",
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
-    }
-  },
   "lint-staged": {
     "*.{js,jsx,vue}": [
       "vue-cli-service lint --fix",
