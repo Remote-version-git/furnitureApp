@@ -1718,6 +1718,13 @@ var result = _node_modules_svg_sprite_loader_runtime_browser_sprite_build_js__WE
 
 /***/ }),
 
+/***/ "2f6f":
+/***/ (function(module, exports, __webpack_require__) {
+
+// extracted by mini-css-extract-plugin
+
+/***/ }),
+
 /***/ "3014":
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -1737,13 +1744,6 @@ var symbol = new _node_modules_svg_baker_runtime_browser_symbol_js__WEBPACK_IMPO
 });
 var result = _node_modules_svg_sprite_loader_runtime_browser_sprite_build_js__WEBPACK_IMPORTED_MODULE_1___default.a.add(symbol);
 /* harmony default export */ __webpack_exports__["default"] = (symbol);
-
-/***/ }),
-
-/***/ "31d6":
-/***/ (function(module, exports, __webpack_require__) {
-
-// extracted by mini-css-extract-plugin
 
 /***/ }),
 
@@ -1810,6 +1810,17 @@ var symbol = new _node_modules_svg_baker_runtime_browser_symbol_js__WEBPACK_IMPO
 });
 var result = _node_modules_svg_sprite_loader_runtime_browser_sprite_build_js__WEBPACK_IMPORTED_MODULE_1___default.a.add(symbol);
 /* harmony default export */ __webpack_exports__["default"] = (symbol);
+
+/***/ }),
+
+/***/ "337e":
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_progressAppEdit_vue_vue_type_style_index_0_id_5844920b_prod_lang_scss___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("2f6f");
+/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_progressAppEdit_vue_vue_type_style_index_0_id_5844920b_prod_lang_scss___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_progressAppEdit_vue_vue_type_style_index_0_id_5844920b_prod_lang_scss___WEBPACK_IMPORTED_MODULE_0__);
+/* unused harmony reexport * */
+
 
 /***/ }),
 
@@ -3309,17 +3320,6 @@ var result = _node_modules_svg_sprite_loader_runtime_browser_sprite_build_js__WE
 
 /***/ }),
 
-/***/ "9689":
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_progressAppEdit_vue_vue_type_style_index_0_id_661ab1f2_prod_lang_scss___WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__("31d6");
-/* harmony import */ var _node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_progressAppEdit_vue_vue_type_style_index_0_id_661ab1f2_prod_lang_scss___WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_mini_css_extract_plugin_dist_loader_js_ref_8_oneOf_1_0_node_modules_css_loader_dist_cjs_js_ref_8_oneOf_1_1_node_modules_vue_loader_lib_loaders_stylePostLoader_js_node_modules_postcss_loader_src_index_js_ref_8_oneOf_1_2_node_modules_sass_loader_dist_cjs_js_ref_8_oneOf_1_3_node_modules_cache_loader_dist_cjs_js_ref_0_0_node_modules_vue_loader_lib_index_js_vue_loader_options_progressAppEdit_vue_vue_type_style_index_0_id_661ab1f2_prod_lang_scss___WEBPACK_IMPORTED_MODULE_0__);
-/* unused harmony reexport * */
-
-
-/***/ }),
-
 /***/ "97b6":
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -4815,14 +4815,15 @@ var staticRenderFns = []
 
 // CONCATENATED MODULE: ./src/custom/apaas-custom-furnitureYouZuoMobile/custom-page/page.vue?vue&type=template&id=1dbd854b&
 
-// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"5ff9a6f2-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/custom/apaas-custom-furnitureYouZuoMobile/custom-component/form-component/form-widget/edit/progressAppEdit.vue?vue&type=template&id=661ab1f2&
-var progressAppEditvue_type_template_id_661ab1f2_render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"progress-app"},[_c('div',{staticClass:"progress-app-header"},[_c('p',[_vm._v("订单："+_vm._s(_vm.orderCode))]),_c('p',[_vm._v("客户："+_vm._s(_vm.customer))]),_c('p',[_vm._v("业务员："+_vm._s(_vm.salesman))]),_c('p',[_vm._v("金额："+_vm._s(_vm.money)+"("+_vm._s(_vm.currency)+")")])]),_c('div',{staticClass:"progress-app-body"},[_c('div',{staticClass:"time_line_box"},[_c('ul',{staticClass:"time_line",staticStyle:{}},[_vm._l((_vm.nodes),function(item,index){return _c('li',[_c('div',{staticClass:"order_item"},[_c('div',{staticClass:"circle",class:{'finished':item.status=='completed','selected':item.status=='active'}},[(item.status=='unactive')?_c('svg',{staticClass:"icon",attrs:{"t":"1669777195864","viewBox":"0 0 1024 1024","version":"1.1","xmlns":"http://www.w3.org/2000/svg","p-id":"2195","width":"20","height":"20"}},[_c('path',{attrs:{"d":"M704.13 576.11c42.74 0 82.92 16.64 113.14 46.86s46.86 70.4 46.86 113.14-16.64 82.92-46.86 113.14-70.4 46.86-113.14 46.86-82.91-16.65-113.13-46.87-46.86-70.4-46.86-113.14 16.64-82.92 46.86-113.14c30.22-30.21 70.39-46.85 113.13-46.85m0-64c-123.71 0-224 100.29-224 224s100.29 224 224 224 224-100.29 224-224-100.29-224-224-224zM641.01 223.5h-362c-17.67 0-32 14.33-32 32s14.33 32 32 32h362c17.67 0 32-14.33 32-32s-14.33-32-32-32zM542.77 400.75H279.01c-17.67 0-32 14.33-32 32s14.33 32 32 32h263.76c17.67 0 32-14.33 32-32s-14.33-32-32-32zM369.76 578h-90.75c-17.67 0-32 14.33-32 32s14.33 32 32 32h90.75c17.67 0 32-14.33 32-32s-14.33-32-32-32z","p-id":"2196","fill":"#999999"}}),_c('path',{attrs:{"d":"M605.13 704.11c-17.67 0-32 14.33-32 32s14.33 32 32 32 32-14.33 32-32-14.32-32-32-32zM704.13 704.11c-17.67 0-32 14.33-32 32s14.33 32 32 32 32-14.33 32-32-14.32-32-32-32zM803.13 704.11c-17.67 0-32 14.33-32 32s14.33 32 32 32 32-14.33 32-32-14.32-32-32-32z","p-id":"2197","fill":"#999999"}}),_c('path',{attrs:{"d":"M411.42 960h-198.4c-61.76 0-112-50.24-112-112V176c0-61.76 50.24-112 112-112H707c61.76 0 112 50.24 112 112v242.21c0 17.67-14.33 32-32 32s-32-14.33-32-32V176c0-26.47-21.53-48-48-48H213.02c-26.47 0-48 21.53-48 48v672c0 26.47 21.53 48 48 48h198.4c17.67 0 32 14.33 32 32s-14.33 32-32 32z","p-id":"2198","fill":"#999999"}})]):_vm._e(),(item.status=='active')?_c('svg',{staticClass:"icon",attrs:{"t":"1669777268367","viewBox":"0 0 1024 1024","version":"1.1","xmlns":"http://www.w3.org/2000/svg","p-id":"2553","width":"20","height":"20"}},[_c('path',{attrs:{"d":"M704.13 576.11c42.74 0 82.92 16.64 113.14 46.86s46.86 70.4 46.86 113.14-16.64 82.92-46.86 113.14-70.4 46.86-113.14 46.86-82.91-16.65-113.13-46.87-46.86-70.4-46.86-113.14 16.64-82.92 46.86-113.14c30.22-30.21 70.39-46.85 113.13-46.85m0-64c-123.71 0-224 100.29-224 224s100.29 224 224 224 224-100.29 224-224-100.29-224-224-224zM641.01 223.5h-362c-17.67 0-32 14.33-32 32s14.33 32 32 32h362c17.67 0 32-14.33 32-32s-14.33-32-32-32zM542.77 400.75H279.01c-17.67 0-32 14.33-32 32s14.33 32 32 32h263.76c17.67 0 32-14.33 32-32s-14.33-32-32-32zM369.76 578h-90.75c-17.67 0-32 14.33-32 32s14.33 32 32 32h90.75c17.67 0 32-14.33 32-32s-14.33-32-32-32z","p-id":"2554","fill":"#3370FF"}}),_c('path',{attrs:{"d":"M411.42 960h-198.4c-61.76 0-112-50.24-112-112V176c0-61.76 50.24-112 112-112H707c61.76 0 112 50.24 112 112v242.21c0 17.67-14.33 32-32 32s-32-14.33-32-32V176c0-26.47-21.53-48-48-48H213.02c-26.47 0-48 21.53-48 48v672c0 26.47 21.53 48 48 48h198.4c17.67 0 32 14.33 32 32s-14.33 32-32 32z","p-id":"2555","fill":"#3370FF"}}),_c('path',{attrs:{"d":"M794 804h-93c-28.67 0-52-23.33-52-52v-96c0-17.67 14.33-32 32-32s32 14.33 32 32v84h81c17.67 0 32 14.33 32 32s-14.33 32-32 32z","p-id":"2556","fill":"#3370FF"}})]):_vm._e(),(item.status=='completed')?_c('svg',{staticClass:"icon",attrs:{"t":"1669777305869","viewBox":"0 0 1024 1024","version":"1.1","xmlns":"http://www.w3.org/2000/svg","p-id":"2769","width":"20","height":"20"}},[_c('path',{attrs:{"d":"M704.13 576.11c42.74 0 82.92 16.64 113.14 46.86s46.86 70.4 46.86 113.14-16.64 82.92-46.86 113.14-70.4 46.86-113.14 46.86-82.91-16.65-113.13-46.87-46.86-70.4-46.86-113.14 16.64-82.92 46.86-113.14c30.22-30.21 70.39-46.85 113.13-46.85m0-64c-123.71 0-224 100.29-224 224s100.29 224 224 224 224-100.29 224-224-100.29-224-224-224zM641.01 223.5h-362c-17.67 0-32 14.33-32 32s14.33 32 32 32h362c17.67 0 32-14.33 32-32s-14.33-32-32-32zM542.77 400.75H279.01c-17.67 0-32 14.33-32 32s14.33 32 32 32h263.76c17.67 0 32-14.33 32-32s-14.33-32-32-32zM369.76 578h-90.75c-17.67 0-32 14.33-32 32s14.33 32 32 32h90.75c17.67 0 32-14.33 32-32s-14.33-32-32-32z","p-id":"2770","fill":"#ffffff"}}),_c('path',{attrs:{"d":"M411.42 960h-198.4c-61.76 0-112-50.24-112-112V176c0-61.76 50.24-112 112-112H707c61.76 0 112 50.24 112 112v242.21c0 17.67-14.33 32-32 32s-32-14.33-32-32V176c0-26.47-21.53-48-48-48H213.02c-26.47 0-48 21.53-48 48v672c0 26.47 21.53 48 48 48h198.4c17.67 0 32 14.33 32 32s-14.33 32-32 32z","p-id":"2771","fill":"#ffffff"}}),_c('path',{attrs:{"d":"M688.56 827.75c-1.53 0-3.06-0.07-4.6-0.21-14.62-1.3-28.07-8.78-36.91-20.5l-47.97-63.65c-10.64-14.11-7.82-34.18 6.3-44.81 14.11-10.64 34.18-7.82 44.81 6.3l39.98 53.05 91.72-84.94c12.97-12.01 33.21-11.23 45.22 1.74 12.01 12.97 11.23 33.21-1.74 45.22L723.91 813.9a52.096 52.096 0 0 1-35.35 13.85z","p-id":"2772","fill":"#ffffff"}})]):_vm._e()]),(item.title)?_c('p',{staticClass:"title",class:{'len':item.length}},[_vm._v(_vm._s(item.title)+" "),(item.length)?_c('span',{staticClass:"tip"},[_vm._v(_vm._s(item.length))]):_vm._e()]):_vm._e(),_c('p',[_vm._v(_vm._s(item.statusName))]),_c('p',[_vm._v(_vm._s(item.desc))]),_c('p',[_vm._v(_vm._s(item.principal))])])])}),_c('span',{staticClass:"filling_line",staticStyle:{"transform":"scaleX(0.28)"}})],2)])])])}
-var progressAppEditvue_type_template_id_661ab1f2_staticRenderFns = []
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"5ff9a6f2-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/custom/apaas-custom-furnitureYouZuoMobile/custom-component/form-component/form-widget/edit/progressAppEdit.vue?vue&type=template&id=5844920b&
+var progressAppEditvue_type_template_id_5844920b_render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"progress-app"},[_c('div',{staticClass:"progress-app-header"},[_c('p',[_vm._v("订单："+_vm._s(_vm.orderCode))]),_c('p',[_vm._v("客户："+_vm._s(_vm.customer))]),_c('p',[_vm._v("业务员："+_vm._s(_vm.salesman))]),_c('p',[_vm._v("金额："+_vm._s(_vm.money)+"("+_vm._s(_vm.currency)+")")])]),_c('div',{staticClass:"progress-app-body"},[_c('div',{staticClass:"time_line_box"},[_c('ul',{staticClass:"time_line",staticStyle:{}},[_vm._l((_vm.nodes),function(item,index){return _c('li',[_c('div',{staticClass:"order_item"},[_c('div',{staticClass:"circle",class:{'finished':item.status=='completed','selected':item.status=='active'}},[(item.status=='unactive')?_c('svg',{staticClass:"icon",attrs:{"t":"1669777195864","viewBox":"0 0 1024 1024","version":"1.1","xmlns":"http://www.w3.org/2000/svg","p-id":"2195","width":"20","height":"20"}},[_c('path',{attrs:{"d":"M704.13 576.11c42.74 0 82.92 16.64 113.14 46.86s46.86 70.4 46.86 113.14-16.64 82.92-46.86 113.14-70.4 46.86-113.14 46.86-82.91-16.65-113.13-46.87-46.86-70.4-46.86-113.14 16.64-82.92 46.86-113.14c30.22-30.21 70.39-46.85 113.13-46.85m0-64c-123.71 0-224 100.29-224 224s100.29 224 224 224 224-100.29 224-224-100.29-224-224-224zM641.01 223.5h-362c-17.67 0-32 14.33-32 32s14.33 32 32 32h362c17.67 0 32-14.33 32-32s-14.33-32-32-32zM542.77 400.75H279.01c-17.67 0-32 14.33-32 32s14.33 32 32 32h263.76c17.67 0 32-14.33 32-32s-14.33-32-32-32zM369.76 578h-90.75c-17.67 0-32 14.33-32 32s14.33 32 32 32h90.75c17.67 0 32-14.33 32-32s-14.33-32-32-32z","p-id":"2196","fill":"#999999"}}),_c('path',{attrs:{"d":"M605.13 704.11c-17.67 0-32 14.33-32 32s14.33 32 32 32 32-14.33 32-32-14.32-32-32-32zM704.13 704.11c-17.67 0-32 14.33-32 32s14.33 32 32 32 32-14.33 32-32-14.32-32-32-32zM803.13 704.11c-17.67 0-32 14.33-32 32s14.33 32 32 32 32-14.33 32-32-14.32-32-32-32z","p-id":"2197","fill":"#999999"}}),_c('path',{attrs:{"d":"M411.42 960h-198.4c-61.76 0-112-50.24-112-112V176c0-61.76 50.24-112 112-112H707c61.76 0 112 50.24 112 112v242.21c0 17.67-14.33 32-32 32s-32-14.33-32-32V176c0-26.47-21.53-48-48-48H213.02c-26.47 0-48 21.53-48 48v672c0 26.47 21.53 48 48 48h198.4c17.67 0 32 14.33 32 32s-14.33 32-32 32z","p-id":"2198","fill":"#999999"}})]):_vm._e(),(item.status=='active')?_c('svg',{staticClass:"icon",attrs:{"t":"1669777268367","viewBox":"0 0 1024 1024","version":"1.1","xmlns":"http://www.w3.org/2000/svg","p-id":"2553","width":"20","height":"20"}},[_c('path',{attrs:{"d":"M704.13 576.11c42.74 0 82.92 16.64 113.14 46.86s46.86 70.4 46.86 113.14-16.64 82.92-46.86 113.14-70.4 46.86-113.14 46.86-82.91-16.65-113.13-46.87-46.86-70.4-46.86-113.14 16.64-82.92 46.86-113.14c30.22-30.21 70.39-46.85 113.13-46.85m0-64c-123.71 0-224 100.29-224 224s100.29 224 224 224 224-100.29 224-224-100.29-224-224-224zM641.01 223.5h-362c-17.67 0-32 14.33-32 32s14.33 32 32 32h362c17.67 0 32-14.33 32-32s-14.33-32-32-32zM542.77 400.75H279.01c-17.67 0-32 14.33-32 32s14.33 32 32 32h263.76c17.67 0 32-14.33 32-32s-14.33-32-32-32zM369.76 578h-90.75c-17.67 0-32 14.33-32 32s14.33 32 32 32h90.75c17.67 0 32-14.33 32-32s-14.33-32-32-32z","p-id":"2554","fill":"#3370FF"}}),_c('path',{attrs:{"d":"M411.42 960h-198.4c-61.76 0-112-50.24-112-112V176c0-61.76 50.24-112 112-112H707c61.76 0 112 50.24 112 112v242.21c0 17.67-14.33 32-32 32s-32-14.33-32-32V176c0-26.47-21.53-48-48-48H213.02c-26.47 0-48 21.53-48 48v672c0 26.47 21.53 48 48 48h198.4c17.67 0 32 14.33 32 32s-14.33 32-32 32z","p-id":"2555","fill":"#3370FF"}}),_c('path',{attrs:{"d":"M794 804h-93c-28.67 0-52-23.33-52-52v-96c0-17.67 14.33-32 32-32s32 14.33 32 32v84h81c17.67 0 32 14.33 32 32s-14.33 32-32 32z","p-id":"2556","fill":"#3370FF"}})]):_vm._e(),(item.status=='completed')?_c('svg',{staticClass:"icon",attrs:{"t":"1669777305869","viewBox":"0 0 1024 1024","version":"1.1","xmlns":"http://www.w3.org/2000/svg","p-id":"2769","width":"20","height":"20"}},[_c('path',{attrs:{"d":"M704.13 576.11c42.74 0 82.92 16.64 113.14 46.86s46.86 70.4 46.86 113.14-16.64 82.92-46.86 113.14-70.4 46.86-113.14 46.86-82.91-16.65-113.13-46.87-46.86-70.4-46.86-113.14 16.64-82.92 46.86-113.14c30.22-30.21 70.39-46.85 113.13-46.85m0-64c-123.71 0-224 100.29-224 224s100.29 224 224 224 224-100.29 224-224-100.29-224-224-224zM641.01 223.5h-362c-17.67 0-32 14.33-32 32s14.33 32 32 32h362c17.67 0 32-14.33 32-32s-14.33-32-32-32zM542.77 400.75H279.01c-17.67 0-32 14.33-32 32s14.33 32 32 32h263.76c17.67 0 32-14.33 32-32s-14.33-32-32-32zM369.76 578h-90.75c-17.67 0-32 14.33-32 32s14.33 32 32 32h90.75c17.67 0 32-14.33 32-32s-14.33-32-32-32z","p-id":"2770","fill":"#ffffff"}}),_c('path',{attrs:{"d":"M411.42 960h-198.4c-61.76 0-112-50.24-112-112V176c0-61.76 50.24-112 112-112H707c61.76 0 112 50.24 112 112v242.21c0 17.67-14.33 32-32 32s-32-14.33-32-32V176c0-26.47-21.53-48-48-48H213.02c-26.47 0-48 21.53-48 48v672c0 26.47 21.53 48 48 48h198.4c17.67 0 32 14.33 32 32s-14.33 32-32 32z","p-id":"2771","fill":"#ffffff"}}),_c('path',{attrs:{"d":"M688.56 827.75c-1.53 0-3.06-0.07-4.6-0.21-14.62-1.3-28.07-8.78-36.91-20.5l-47.97-63.65c-10.64-14.11-7.82-34.18 6.3-44.81 14.11-10.64 34.18-7.82 44.81 6.3l39.98 53.05 91.72-84.94c12.97-12.01 33.21-11.23 45.22 1.74 12.01 12.97 11.23 33.21-1.74 45.22L723.91 813.9a52.096 52.096 0 0 1-35.35 13.85z","p-id":"2772","fill":"#ffffff"}})]):_vm._e()]),(item.title)?_c('p',{staticClass:"title",class:{'len':item.length}},[_vm._v(" "+_vm._s(item.title)+" "),(item.length)?_c('span',{staticClass:"tip"},[_vm._v(_vm._s(item.length))]):_vm._e()]):_vm._e(),_c('p',[_vm._v(_vm._s(item.statusName))]),_c('p',[_vm._v(_vm._s(item.desc))]),_c('p',[_vm._v(_vm._s(item.principal))])])])}),_c('span',{staticClass:"filling_line",staticStyle:{"transform":"scaleX(0.28)"}})],2)])])])}
+var progressAppEditvue_type_template_id_5844920b_staticRenderFns = []
 
 
-// CONCATENATED MODULE: ./src/custom/apaas-custom-furnitureYouZuoMobile/custom-component/form-component/form-widget/edit/progressAppEdit.vue?vue&type=template&id=661ab1f2&
+// CONCATENATED MODULE: ./src/custom/apaas-custom-furnitureYouZuoMobile/custom-component/form-component/form-widget/edit/progressAppEdit.vue?vue&type=template&id=5844920b&
 
 // CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--12-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib??ref--16-2!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/custom/apaas-custom-furnitureYouZuoMobile/custom-component/form-component/form-widget/edit/progressAppEdit.vue?vue&type=script&lang=js&
+//
 //
 //
 //
@@ -4864,7 +4865,7 @@ var progressAppEditvue_type_template_id_661ab1f2_staticRenderFns = []
   props: ['orderCode', 'url', 'money', 'salesman', 'customer', 'currency'],
   data: function data() {
     return {
-      finishStatus: ["审核", "自然关闭", "短缺关闭", "已完成", "已核销", "月结客户", "完工", "已核准", "已认款", '已提交', '已创建'],
+      finishStatus: ["审核", "自然关闭", "短缺关闭", "已完成", "全部核销", "月结客户", "完工", "已核准", "全部认款", '已提交', '已创建', '全部发货(自然关闭)'],
       waitStatus: ['审核中', '进行中', '部分认款', '部分核销'],
       orderStyle: {},
       orders: [],
@@ -4911,6 +4912,9 @@ var progressAppEditvue_type_template_id_661ab1f2_staticRenderFns = []
           if (item.dateDsc) {
             dateDetail = item.dateDsc.concat(item.nodeDate);
           }
+          if (item.nodeName == '出货' || item.nodeName == '采购订单' || item.nodeName == '审核情况') {
+            item.status = "";
+          }
           var node = {
             title: item.nodeName,
             desc: dateDetail,
@@ -4928,8 +4932,8 @@ var progressAppEditvue_type_template_id_661ab1f2_staticRenderFns = []
 });
 // CONCATENATED MODULE: ./src/custom/apaas-custom-furnitureYouZuoMobile/custom-component/form-component/form-widget/edit/progressAppEdit.vue?vue&type=script&lang=js&
  /* harmony default export */ var edit_progressAppEditvue_type_script_lang_js_ = (progressAppEditvue_type_script_lang_js_); 
-// EXTERNAL MODULE: ./src/custom/apaas-custom-furnitureYouZuoMobile/custom-component/form-component/form-widget/edit/progressAppEdit.vue?vue&type=style&index=0&id=661ab1f2&prod&lang=scss&
-var progressAppEditvue_type_style_index_0_id_661ab1f2_prod_lang_scss_ = __webpack_require__("9689");
+// EXTERNAL MODULE: ./src/custom/apaas-custom-furnitureYouZuoMobile/custom-component/form-component/form-widget/edit/progressAppEdit.vue?vue&type=style&index=0&id=5844920b&prod&lang=scss&
+var progressAppEditvue_type_style_index_0_id_5844920b_prod_lang_scss_ = __webpack_require__("337e");
 
 // CONCATENATED MODULE: ./node_modules/vue-loader/lib/runtime/componentNormalizer.js
 /* globals __VUE_SSR_CONTEXT__ */
@@ -5040,8 +5044,8 @@ function normalizeComponent(
 
 var component = normalizeComponent(
   edit_progressAppEditvue_type_script_lang_js_,
-  progressAppEditvue_type_template_id_661ab1f2_render,
-  progressAppEditvue_type_template_id_661ab1f2_staticRenderFns,
+  progressAppEditvue_type_template_id_5844920b_render,
+  progressAppEditvue_type_template_id_5844920b_staticRenderFns,
   false,
   null,
   null,

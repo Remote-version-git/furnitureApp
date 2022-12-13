@@ -40,7 +40,7 @@ export default {
   props: ['orderCode', 'url', 'money', 'salesman', 'customer', 'currency'],
   data() {
     return {
-      finishStatus: ['审核', '自然关闭', '短缺关闭', '已完成', '已核销', '月结客户', '完工', '已核准', '已认款', '已提交', '已创建'],
+      finishStatus:["审核","自然关闭","短缺关闭","已完成","全部核销","月结客户","完工","已核准","全部认款",'已提交','已创建','全部发货(自然关闭)'],
       waitStatus: ['审核中', '进行中', '部分认款', '部分核销'],
       orderStyle: {},
       orders: [],
@@ -86,6 +86,9 @@ export default {
             let dateDetail = ''
             if (item.dateDsc) {
               dateDetail = item.dateDsc.concat(item.nodeDate)
+            }
+            if(item.nodeName == '出货'||item.nodeName == '采购订单'||item.nodeName == '审核情况' ){
+                item.status = "";
             }
             var node = {
               title: item.nodeName,
