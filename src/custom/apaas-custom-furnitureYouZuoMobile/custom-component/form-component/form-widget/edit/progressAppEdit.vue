@@ -93,11 +93,11 @@ export default {
     }
   },
   created() {
-    this.url = 'http://cscrm.sitzone.cn:30611';
-    this.orderCode = '8888';
+    // this.url = 'http://cscrm.sitzone.cn:30611';
+    // this.orderCode = '8888';
     this.$request({
       method: 'get',
-      url: this.url + '/custom/crm/getOrderCurrentProgress',
+      url: '/custom/crm/getOrderCurrentProgress',
       params: {
         orderCode: this.orderCode
       }
